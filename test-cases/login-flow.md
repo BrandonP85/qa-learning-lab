@@ -1,8 +1,11 @@
 Case ID: TC-OC-002
+
 Title: Happy Path - login with new account
+
 Preconditions: must have a valid account created
 
 Steps to Perform:
+
 1: navigate to https://www.opencart.com/index.php?route=account/login
 
 2: enter username and password
