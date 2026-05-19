@@ -1,32 +1,32 @@
 Case ID: TC-OC-001
 
-Title: Happy Path - register new account
+Title: Register new account with valid credentials
 
 Preconditions: must have a valid email address
 
 Steps to Perform:
 
-1: navigate to https://www.opencart.com/index.php?route=cms/demo
+1: navigate to https://demo.opencart.com/
 
-2: click "Register" in the top-right
+2: click the "My account" drop down in the top-right
 
-3: Create your Username, and fill in the appropriate required information (Fist Name, last name, email address, so on), and password
+3: choose "register" in the drop down menu
 
-4: correctly respond to the Captcha at the bottom
+4: fill in the necessary credentials - First Name, Last Name, and so on
 
-5: click "Register"
+5: choose whether or not you want to subscribe by clicking the bottom-left switcher
 
-6: you will receive a verification email to the email address on file
+6: click the "privacy policy" switcher on the bottom-right
 
-7: open it; click "verify"
+7: click "continue"
 
-8: click "continue"; you will be rerouted to https://www.opencart.com/index.php?route=account/login
+8: this will land you on https://demo.opencart.com/en-gb?route=account/success
 
 
-Expected Results: successful account creation
+Expected Results: completed account creation; ends on a "Your Account has been created!" screen
 
-Actual Results: account creation successful
+Actual Results: the creation went through successfully
 
 Status: PASS
 
-Notes: N/A
+Notes: the "privacy policy" and "subscribe" switchers need to be more clearly highlighted
