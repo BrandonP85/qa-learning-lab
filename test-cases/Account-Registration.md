@@ -23,10 +23,10 @@ Steps to Perform:
 8: this will land you on https://demo.opencart.com/en-gb?route=account/success
 
 
-Expected Results: completed account creation; ends on a "Your Account has been created!" screen
+Expected Results: completed account creation; should end on a "Your Account has been created!" screen
 
-Actual Results: the creation went through successfully
+Actual Results: completed account creation; ends on a "Your Account has been created!" screen
 
 Status: PASS
 
-Notes: the "privacy policy" and "subscribe" switchers need to be more clearly highlighted
+Notes: the "privacy policy" and "subscribe" switchers need to be more clearly highlighted. Neither are visually distinct enough. Recommend UX review and enhancemnt consideration.
