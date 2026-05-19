@@ -24,4 +24,4 @@ Actual Results: the login does complete successfully
 
 Status: PASS
 
-Notes: the 
+Notes: the "login" option can also be accessed by clicking "login" in the drop-down (see step 2), then clicking "login" on the far right table; this is redundant. Consider revision.
