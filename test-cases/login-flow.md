@@ -12,15 +12,15 @@ Steps to Perform:
 
 3: in the drop down, select "login"
 
-4: under "returning customer" in the center page, enter user name and password
+4: under "returning customer" in the center page, enter email address and password
 
 5: click "login"
 
 6: This will land you on the "account" page (https://demo.opencart.com/en-gb?route=account/account&customer)
 
-Expected Results: the login should complete successfully
+Expected Results: the login should complete successfully, landing on https://demo.opencart.com/en-gb?route=account/
 
-Actual Results: the login does complete successfully
+Actual Results: the login does complete successfully; lands on https://demo.opencart.com/en-gb?route=account/
 
 Status: PASS
 
