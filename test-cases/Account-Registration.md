@@ -18,7 +18,7 @@ Steps to Perform:
 
 6: click the "privacy policy" switcher on the bottom-right
 
-7: click "continue"
+7: click "continue"; the "privacy policy" switcher must be clicked to proceed
 
 8: this will land you on https://demo.opencart.com/en-gb?route=account/success
 
