@@ -1,31 +1,27 @@
 Case ID: TC-OC-002
 
-Title: Happy Path - login with new account
+Title: successfully login with newly created credentials
 
 Preconditions: must have a valid account created
 
 Steps to Perform:
 
-1: navigate to https://www.opencart.com/index.php?route=account/login
+1: navigate to https://demo.opencart.com/en-gb?route=common/home
 
-2: enter username and password
+2: click the "my account" drop down in the top right
 
-3: on the next page, you re prompted to create a PIN
+3: in the drop down, select "login"
 
-4: correctly respond to the Captcha at the bottom
+4: under "returning customer" in the center page, enter user name and password
 
-5: click "Register"
+5: click "login"
 
-6: you will receive a verification email to the email address on file
+6: This will land you on the "account" page (https://demo.opencart.com/en-gb?route=account/account&customer)
 
-7: open it; click "verify"
+Expected Results: the login should complete successfully
 
-8: click "continue"; you will be rerouted to https://www.opencart.com/index.php?route=account/login
-
-
-Expected Results: successful account creation
-Actual Results: account creation successful
+Actual Results: the login does complete successfully
 
 Status: PASS
 
-Notes: N/A
+Notes: the 
