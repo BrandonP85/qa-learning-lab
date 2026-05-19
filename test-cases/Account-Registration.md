@@ -29,4 +29,4 @@ Actual Results: completed account creation; ends on a "Your Account has been cre
 
 Status: PASS
 
-Notes: the "privacy policy" and "subscribe" switchers need to be more clearly highlighted. Neither are visually distinct enough. Recommend UX review and enhancemnt consideration.
+Notes: the "privacy policy" and "subscribe" switchers need to be more clearly highlighted. Neither are visually distinct enough. Recommend UX review and enhancement consideration.
