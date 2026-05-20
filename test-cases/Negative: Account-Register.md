@@ -1,4 +1,4 @@
-TC-OC-004
+NEG-OC-004
 
 Title: Register new account without accepting privacy policy
 
