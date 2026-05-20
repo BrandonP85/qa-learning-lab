@@ -1,6 +1,6 @@
 TC-OC-004
 
-Title: Register new account without accepting privac policy
+Title: Register new account without accepting privacy policy
 
 Preconditions: must have a valid email address
 
