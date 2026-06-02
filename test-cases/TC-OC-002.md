@@ -1,4 +1,4 @@
-Case ID: TC-OC-002
+TC-OC-002
 
 Title: successfully login with newly created credentials
 
