@@ -1,4 +1,4 @@
-NEG-TC-006
+NEG-OC-006
 
 Title: Register new account with an already registered email
 
@@ -24,8 +24,8 @@ Steps to Perform:
 
 Expected Results: should not be able to create an account with an email address that is already registered
 
-Actual Results: cannot successfully create the account without an email address already registered
+Actual Results: account creation blocked; Error received: E-Mail Address is already registered!
 
-Status: FAIL
+Status: PASS
 
 Notes: updating the UI to include a flag on an already registered email address before the continue button is pressed would prevent this error for users.
