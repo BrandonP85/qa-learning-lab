@@ -1,4 +1,4 @@
-NEG-TC-007
+NEG-OC-007
 
 Title: Register new account without filling out required info
 
