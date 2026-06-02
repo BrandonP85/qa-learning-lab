@@ -1,4 +1,4 @@
-NEG-TC-009
+NEG-OC-009
 
 Title: Attempt login with unregistered email
 
@@ -24,4 +24,4 @@ Actual Results: cannot login with an unregistered email
 
 Status: FAIL
 
-Notes: Specific error recomended; "invalid email" or similar
+Notes: Specific error recomended; "invalid email" or similar. Understably, I realize this error may exist to prevent enumeration attacks.
