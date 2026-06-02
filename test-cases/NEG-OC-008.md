@@ -1,4 +1,4 @@
-NEG-TC-008
+NEG-OC-008
 
 Title: Attempt login with incorrect password
 
@@ -24,4 +24,4 @@ Actual Results: cannot login with an incorrect password
 
 Status: FAIL
 
-Notes: Specific error recomended; "invalid password" or similar 
+Notes: Specific error recomended; "invalid password" or similar. Understably, I realize this error may exist to prevent enumeration attacks.
