@@ -22,7 +22,7 @@ Steps to Perform:
 
 8: receive an error: E-Mail Address is already registered!
 
-Expected Results: should not be able to create an account with an email address hat is already registered
+Expected Results: should not be able to create an account with an email address that is already registered
 
 Actual Results: cannot successfully create the account without an email address already registered
 
