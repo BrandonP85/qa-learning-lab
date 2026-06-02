@@ -24,6 +24,6 @@ Expected Results: should be able to successfully create an account with proper c
 
 Actual Results: cannot successfully create the account without agreeing to the privacy policy
 
-Status: FAIL
+Status: PASS
 
 Notes: the "privacy policy" and "subscribe" switchers need to be more clearly highlighted to prevent this error from occurring.
