@@ -1,4 +1,4 @@
-NEG-TC-005
+NEG-OC-005
 
 Title: Register new account without a correct email address
 
@@ -26,6 +26,6 @@ Expected Results: should not be able to create an account without a proper email
 
 Actual Results: cannot successfully create the account without a proper email address
 
-Status: FAIL
+Status: PASS
 
 Notes: updating the UI to include a flag on a bad email address before the continue button is pressed would prevent this error for users.
