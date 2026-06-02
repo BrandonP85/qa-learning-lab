@@ -12,7 +12,7 @@ Steps to Perform:
 
 3: choos; e "register" in the drop down menu
 
-4: fill in the necessary credentials - First Name, Last Name; input an invalid email address (example: 123456@987)
+4: fill in the necessary credentials - leave 'First Name' blank; fill out Last Name; input an valid email address
 
 5: choose whether or not you want to subscribe by clicking the bottom-left switcher
 
@@ -20,12 +20,12 @@ Steps to Perform:
 
 7: click "continue"
 
-8: receive an error: Email address does not appear to be valid!
+8: receive an error: First Name must be between 1 and 32 characters!
 
-Expected Results: should not be able to create an account without a proper email address
+Expected Results: should not be able to create an account without a first name
 
-Actual Results: cannot successfully create the account without a proper email address
+Actual Results: cannot successfully create the account without a first name
 
 Status: FAIL
 
-Notes: tupdating the UI to include a flag on a bad email address before the continue button is pressed would prevent this error for users.
+Notes: updating the UI to include a flag on an empty required field before the continue button is pressed would prevent this error for users.
