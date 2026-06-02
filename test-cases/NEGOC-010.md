@@ -1,4 +1,4 @@
-NEG-TC-010
+NEG-OC-010
 
 Title: Attempt login with empty fields
 
@@ -14,7 +14,7 @@ Steps to Perform:
 
 4: input no email address
 
-5: input correct password
+5: input no password
 
 6: receive an error: No match for E-Mail and/or Password.
 
@@ -22,6 +22,6 @@ Expected Results: should not be able to login with a blank field
 
 Actual Results: cannot login with a blank field
 
-Status: FAIL
+Status: PASS
 
 Notes: Specific error recomended; "email address needed" or similar
