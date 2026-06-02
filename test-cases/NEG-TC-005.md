@@ -28,4 +28,4 @@ Actual Results: cannot successfully create the account without a proper email ad
 
 Status: FAIL
 
-Notes: tupdating the UI to include a flag on a bad email address before the continue button is pressed would prevent this error for users.
+Notes: updating the UI to include a flag on a bad email address before the continue button is pressed would prevent this error for users.
