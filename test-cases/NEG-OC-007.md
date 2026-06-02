@@ -26,6 +26,6 @@ Expected Results: should not be able to create an account without a first name
 
 Actual Results: cannot successfully create the account without a first name
 
-Status: FAIL
+Status: PASS
 
 Notes: updating the UI to include a flag on an empty required field before the continue button is pressed would prevent this error for users.
