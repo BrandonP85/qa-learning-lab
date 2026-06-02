@@ -1,4 +1,4 @@
-Case ID: TC-OC-003
+TC-OC-003
 
 Title: Perform a successful logout
 
