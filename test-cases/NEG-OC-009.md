@@ -22,6 +22,6 @@ Expected Results: should not be able to login with an unregistered email
 
 Actual Results: cannot login with an unregistered email
 
-Status: FAIL
+Status: PASS
 
 Notes: Specific error recomended; "invalid email" or similar. Understably, I realize this error may exist to prevent enumeration attacks.
