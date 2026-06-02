@@ -1,4 +1,4 @@
-Case ID: TC-OC-001
+TC-OC-001
 
 Title: Register new account with valid credentials
 
