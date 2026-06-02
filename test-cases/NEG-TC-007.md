@@ -10,7 +10,7 @@ Steps to Perform:
 
 2: click the "My account" drop down in the top-right
 
-3: choos; e "register" in the drop down menu
+3: choose "register" in the drop down menu
 
 4: fill in the necessary credentials - leave 'First Name' blank; fill out Last Name; input an valid email address
 
