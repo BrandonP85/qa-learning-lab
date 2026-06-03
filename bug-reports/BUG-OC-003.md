@@ -26,4 +26,4 @@ Actual Result: the buttons are unresponsive when clicked
 
 Status: NEW
 
-Notes: There are no errors or 
+Notes: There are no errors that populate during this prrocess
