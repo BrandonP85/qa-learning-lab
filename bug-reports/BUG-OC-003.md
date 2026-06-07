@@ -6,7 +6,7 @@ Environment: Chrome Browser version 148
 
 Severity: Medium
 
-Priority: Low
+Priority: Medium
 
 Preconditions: must be registered and logged in 
 
