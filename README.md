@@ -7,7 +7,7 @@
 **About this Repository:** This repo is a living record of my QA work and methodology. It exists to demonstrate not only my skills as a tester, but how I think as one. I want it to convey how I approach coverage, document findings, identify edge cases, and communicate defects. 
 
 
-I have a background in SaaS Support, Tech Support, and IT; I understand how software breaks in the real world, and how that effects the end user. I'm actively building on that foundation with that you see here.
+I have a background in SaaS Support, Tech Support, and IT; I understand how software breaks in the real world, and how that affects the end user. I'm actively building on that foundation with that you see here.
 
 
 **What's Here**
