@@ -25,4 +25,7 @@ Status: NEW
 
 Notes: screenshot of the error in console.
 
+<img width="1811" height="791" alt="Capture3" src="https://github.com/user-attachments/assets/889edcc6-dc60-415f-9c7c-0b45cdd67b8c" />
+<img width="713" height="879" alt="Capture4" src="https://github.com/user-attachments/assets/bbdff544-0597-4cf9-905c-912f60d2d891" />
+
 
