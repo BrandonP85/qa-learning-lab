@@ -1,6 +1,6 @@
 BUG-OC-005
 
-Title: 522 connection timeout - Demo Site goes down
+Title: 522 connection timeout - Demo Site is unresponsive
 
 Environment: Chrome Browser version 148; Android version 16
 
@@ -24,7 +24,7 @@ Actual Result: the site has become unresponsive; cannot navigate
 Status: NEW
 
 Notes:  
-Screenshotsof error acquired at 6/6/26 @0305, 0306 UTC. 
+Screenshots of error acquired at 6/6/26 @0305, 0306 UTC. 
 Errors appears consistent; not intermittent.
 Error replicates in other environments (IE: Chrome mobile browser hosted on Google Pixel 8); replication indicates the error is server-level
 
