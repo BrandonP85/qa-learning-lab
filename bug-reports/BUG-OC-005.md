@@ -1,6 +1,6 @@
 BUG-OC-005
 
-Title: 522 connection timeout
+Title: 522 connection timeout - Demo Site goes down
 
 Environment: Chrome Browser version 148
 
