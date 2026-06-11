@@ -18,7 +18,7 @@ Steps to Reproduce:
 
 3. from this page, click "Contact Us" to the right
 
-4. observa a blank "not found" page loads
+4. observe a blank "not found" page loads
 
 Expected Result: this page should populate relevant Contact information
 
