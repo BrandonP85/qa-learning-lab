@@ -28,6 +28,6 @@ Actual Result: the link populates nothing instead
 Status: NEW
 
 Notes:
-Screenshot of the page with console error: "404 (Not Found)"
+Screenshot of the page with console error: "404 (Not Found)". This reflects the same error found in BUG-TI-001, which may indicate a systemic issue.
 
 <img width="1910" height="538" alt="Capture111" src="https://github.com/user-attachments/assets/c452e74c-b554-4d80-8bcf-a647ca49aa17" />
