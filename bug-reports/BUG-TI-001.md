@@ -14,11 +14,11 @@ Steps to Reproduce:
 
 1.navigate to The Internet (https://the-internet.herokuapp.com/)
 
-from the Home page, navigate to 'Disappearing Elements'; click it
+2. from the Home page, navigate to 'Disappearing Elements'; click it
 
-from this page, click "Contact Us" to the right
+3. from this page, click "Contact Us" to the right
 
-A  blank "not found" page loads
+4. observa a blank "not found" page loads
 
 Expected Result: this page should populate relevant Contact information
 
