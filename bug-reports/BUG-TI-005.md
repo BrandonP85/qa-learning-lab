@@ -8,7 +8,7 @@ Severity: medium
 
 Priority: low
 
-Preconditions: N/A
+Preconditions: must have a valid email. Example: "example@gmail.com"
 
 Steps to Reproduce: 
 
