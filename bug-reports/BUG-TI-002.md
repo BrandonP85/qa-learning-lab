@@ -4,7 +4,7 @@ Title: "Typos" page not functioning properly, not changing with page load
 
 Environment: Chrome Browser version 148
 
-Severity: low
+Severity: medium
 
 Priority: low
 
@@ -20,9 +20,8 @@ Steps to Reproduce:
 
 4. hit refresh in the top-left
 
-5. observe that the text does not change
 
-Expected Result: per the instrucions, the typo should be random
+Expected Result: per the instructions, the typo should be random
 
 Actual Result: it is not; it's stuck on the typo, "won,t"
 
