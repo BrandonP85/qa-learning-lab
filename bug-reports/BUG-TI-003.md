@@ -18,7 +18,7 @@ Steps to Reproduce:
 
 3. the page advises that it should take 30 seconds to load a rogue element 
 
-4. monitor the page; it does not load anything after that time
+4. monitor the page; it does not load anything after the time frame. Tested a 120 second wait to validate
 
 
 Expected Result: the GET request should load, per the instructions
