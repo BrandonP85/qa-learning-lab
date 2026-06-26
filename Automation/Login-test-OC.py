@@ -6,7 +6,7 @@ def test_login():
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
         
-        #Navigate to the login page and wait until the username field is ready
+        # Navigate to the login page and wait until the username field is ready
         page.goto("https://demo.opencart.com/en-gb?route=account/login")
         page.screenshot(path="debug_screenshot.png")
         page.wait_for_selector("input[name='email']")
@@ -15,7 +15,7 @@ def test_login():
         page.fill("input[name='email']", "Thisemail@gmail.com")
         page.fill("input[name='password']", "Winter@226!")
         
-        # Submit the login form
+        # click the login value
         page.click("input[value='Login']")
         
         # Assert successful login - valid login redirects to account/account
