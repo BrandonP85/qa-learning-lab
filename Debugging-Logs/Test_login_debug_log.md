@@ -11,13 +11,17 @@ the timeout was occurring when the automation was trying to find "input[name='em
 
 **Fix Attempted:** 
 > determined that the input written correctly in the HTML
+
 > corrected the automation testing code to allow for the form to become fully interactive by inserting "page.wait_for_selector("input[name='email']")"
+
 > re-tested; error still occured: "TimeoutError: Page.wait_for_selector: Timeout 30000ms exceeded."
+
 > added in "page.screenshot(path="debug_screenshot.png")" to screenshot the problem area
+
 > re-tested; determined the core issue is Cloudflare blocking bot activity. The automation is never able to touch the site.
 
 
-**Result:** the root cause was due to a function of the target testing site Workin as Designed
+**Result:** the root cause was due to a function of the target testing site Working as Designed
 
 **Command Prompt Test Result Code**
 C:\Users\Fathe\Desktop\playwright_tests> python Test_login.py
