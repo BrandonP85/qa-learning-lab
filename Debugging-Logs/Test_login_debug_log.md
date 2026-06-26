@@ -6,7 +6,9 @@ Debugging JSON, HTML
 
 **Error observed:** during automation testing of the login function of https://demo.opencart.com/en-gb?route=account/login, noted the process was timing out
 the timeout was occurring when the automation was trying to find "input[name='email']"
+
 **Hypothesis:** the email field selector is named differently in the OpenCart HTML
+
 **Fix Attempted:** 
 > determined that the input written correctly in the HTML
 > corrected the automation testing code to allow for the form to become fully interactive by inserting "page.wait_for_selector("input[name='email']")"
