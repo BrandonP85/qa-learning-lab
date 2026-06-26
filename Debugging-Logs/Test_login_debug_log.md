@@ -72,7 +72,6 @@ Traceback (most recent call last):
   File "D:\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
     raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
 
-    **Screenshots:** of the Automation sript and the Debug screenshot result
 playwright._impl._errors.TimeoutError: Page.wait_for_selector: Timeout 30000ms exceeded.
 Call log:
   - waiting for locator("input[name='email']") to be visible
