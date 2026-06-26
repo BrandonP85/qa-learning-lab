@@ -1,6 +1,8 @@
-Debugging in Chrome (DevTools)
-6/26/26
-Debugging JSON, HTML
+Automation Debug Log: Opencart Login
+Date: 6/26/26
+Tester: Brandon P
+Target: https://demo.opencart.com/en-gb?route=account/login
+Environment: Chrome 418, Windows; Pythonn 3.12, Playwright
 
 **Issue Log:**
 
@@ -22,6 +24,8 @@ the timeout was occurring when the automation was trying to find "input[name='em
 
 
 **Result:** the root cause was due to a function of the target testing site Working as Designed
+
+**What was learned:** Cloudflare bot protection is a legitimate constraint; Demo environments with active bot mitigation are not suitable Playwright targets without Stealth tools. Future targets will be verified for bot protection to prevent an outcome like this in the future; the failure was environmental, not code-level. 
 
 **Command Prompt Test Result Code**
 C:\Users\Fathe\Desktop\playwright_tests> python Test_login.py
