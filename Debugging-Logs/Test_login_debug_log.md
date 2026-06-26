@@ -1,7 +1,11 @@
 Automation Debug Log: Opencart Login
+
 Date: 6/26/26
+
 Tester: Brandon P
+
 Target: https://demo.opencart.com/en-gb?route=account/login
+
 Environment: Chrome 418, Windows; Pythonn 3.12, Playwright
 
 **Issue Log:**
