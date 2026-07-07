@@ -1,62 +1,48 @@
-# qa-learning-lab
+# QA Learning Lab - Brandon Parker
 
+**Professional QA Portfolio** showcasing manual testing, exploratory testing, bug reporting, test strategy, and automation development.
 
-**Purpose:** This is a structured portfolio documenting my growth as a QA practitioner. Here, I'm covering manual testing, exploratory testing, bug reporting, test strategy, and even some test automation.
+[View LinkedIn](https://www.linkedin.com/in/brandon-parker-01a109233) | [GitHub](https://github.com/BrandonP85)
 
+## About Me
+I am a dedicated QA practitioner with a background in SaaS Technical Support and IT. I specialize in identifying user-impacting issues and communicating them clearly for fast resolution. This repository serves as a living portfolio demonstrating my testing methodology, attention to detail, and continuous growth in automation.
 
-**About this Repository:** This repo is a living record of my QA work and methodology. It exists to demonstrate not only my skills as a tester, but how I think as one. I want it to convey how I approach coverage, document findings, identify edge cases, and communicate defects. 
+## What's Inside
 
+| Section              | Description |
+|----------------------|-----------|
+| **bug-reports/**     | Structured bug reports against real applications (OpenCart, Sauce Demo, etc.) using industry formats |
+| **test-cases/**      | Manual & exploratory test cases covering happy paths, edge cases, and negative scenarios |
+| **test-strategy/**   | Test planning documents with scope, risk assessment, and coverage rationale |
+| **Debugging-Logs/**  | Chrome DevTools debugging processes and findings |
+| **Automation/**      | Playwright scripts (Python) – login flows and expanding functional tests |
 
-I have a background in SaaS Support, Tech Support, and IT; I understand how software breaks in the real world, and how that affects the end user. I'm actively building on that foundation with that you see here.
+## Featured Work Examples
+- **[BUG-OC-001](https://github.com/BrandonP85/qa-learning-lab/blob/main/bug-reports/BUG-OC-001.md)**: Identified misleading error messaging on login form (OpenCart) – Medium severity, clear reproduction steps and recommendations.
+- **Automation Example**: Developing reliable login tests with Playwright for improved regression coverage.
 
+## Tools & Technologies
+- **Testing**: Manual, Exploratory, Chrome DevTools
+- **Automation**: Python, Playwright (in progress)
+- **Documentation**: Markdown, structured templates
+- **Tracking**: JIRA-style formats, GitHub Issues
+- **Applications Tested**: Sauce Demo, OpenCart, Herokuapp, various web/SaaS platforms
 
-**What's Here**
+## Methodology Highlights
+- Focus on **user impact** and real-world scenarios
+- Clear, actionable bug reports with screenshots/evidence
+- Emphasis on edge cases and thorough coverage
+- Continuous improvement through regular additions
 
-|**Folder**    |**Contents**                                                                             |
-|--------------|-----------------------------------------------------------------------------------------|
-|bug-reports/  |Structured bug reports, written in industry-standard formats, against real applications  |
-|test-cases/   |Manual and exploratory test cases, including happy path and negative/edge cases          |
-|test-strategy/|Test strategy documents outlining scope, approach, and coverage rationale                |
-|Debugging/    | Front-End Debugging processes                                                           |
-| Automation/  | Automation tests utilizing tools such as Playwright                                     |
-----------------------------------------------------------------------------------------------------------
+## Current Focus & Roadmap
+- Expanding automation suite with more flows and CI
+- Adding API and accessibility testing examples
+- More exploratory session charters
 
+## Contact
+I'm actively seeking QA opportunities and open to feedback on this portfolio.  
+Reach out via LinkedIn or email!
 
-**METHODOLOGY**
+---
 
-**Manual Testing:** structured test case execution with clear steps, expected vs actual results, pass/fail status, and environment details.
-
-**Exploratory Testing:** session-based exploratory testing with logged observations, anomalies, and follow-up test ideas. Applying a focus on user-impacting behavior.
-
-**Bug Reporting:** bug reports follow a consistent format: summary, environment, steps to reproduce, expected result, actual result, severity, and supporting evidence. Written with immediate action in mind.
-
-**Test Strategy:** coverage decisions are documented; what's tested, what's out of scope, and why. The details matter.
-
-**Automation:** The groundwork for building automated test scripts using Python and Playwright. Initial focus on elements like login flows.
-
-
-**TOOLS & TECHNOLOGIES**
-- **Bug Tracking:** JIRA, GitHub Issues
-- **Test Documentation:** Markdown, structured case templates
-- **Automation:** Python, Playwright (in progress)
-- **Dev Tools:** Chrome DevTools
-- **Platforms Tested:** Web, Windows OS
-  
-
-  **APPLICATIONS USED**
-  Testing is conducted against real, publicly accessible applications and purpose-built QA practice environments - not fabricated scenarios. Targets include:
-  - **Sauce Demo** - a QA practice app with intentional defects built in
-  - **The Internet (Herokuapp)** - edge case and UI testing scenarios
-  - Additional SaaS and web applications as documented in individual test files
- 
-
-  **STATUS**
-  - [] Expanding bug report library; multiple application types
-  - [] Adding negative and edge cases
-  - [] Building a Playwright automated test suite
-  - [] Documenting exploratory testing sessions
- 
-
-  **Contact**
-  
- LinkedIn: https://www.linkedin.com/in/brandon-parker-01a109233?utm_source=share_via&utm_content=profile&utm_medium=member_android
+*Last updated: July 2026 | 124+ commits of active development*
