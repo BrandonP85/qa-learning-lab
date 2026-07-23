@@ -1,3 +1,5 @@
+<img width="1602" height="999" alt="API_Test" src="https://github.com/user-attachments/assets/819bc6a6-5d1c-433c-92c2-750b2b2a8f41" />
+<img width="1602" height="999" alt="API_Test" src="https://github.com/user-attachments/assets/668e1796-8517-4e1e-894a-b327dd6243d6" />
 # Restful-Booker API Testing Practice
 
 Documenting my journey learning API testing with Postman and the Restful-Booker demo API.
