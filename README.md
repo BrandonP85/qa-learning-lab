@@ -9,6 +9,12 @@ I'm a technical support and SaaS escalation professional with a growing speciali
 My professional background sits at the intersection of technical troubleshooting, software testing, customer-facing problem solving, and cross-functional coordination. In my current role, I manage high-complexity SaaS escalations, investigate and reproduce software issues, perform root-cause analysis, coordinate with Development and other teams, and validate bug fixes in live client environments.
 I've encountered QA from several angles throughout my career; from validating physical telecommunications service lines, to testing software builds during my education, to extensive production testing and bug validation in SaaS environments.
 I'm now deliberately building on that experience with formal QA and automation practices.
+
+## What I'm Building 
+The endgame is to become an SDET/Software Automation Engineer, with a focus on test automation, API testing, and eventually building reliable testing systems.
+
+I'm building these skills on top of a career of real-world production testing, rather than treating QA as a reset or different path.
+
 ## What's Inside
 
 | Section              | Description |
