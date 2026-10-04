@@ -5,8 +5,10 @@
 [View LinkedIn](https://www.linkedin.com/in/brandon-parker-01a109233) | [GitHub](https://github.com/BrandonP85)
 
 ## About Me
-I am a dedicated QA practitioner with a background in SaaS Technical Support and IT. I specialize in identifying user-impacting issues and communicating them clearly for fast resolution. This repository serves as a living portfolio demonstrating my testing methodology, attention to detail, and continuous growth in automation.
-
+I'm a technical support and SaaS escalation professional with a growing specialization in software quality and test automation.
+My professional background sits at the intersection of technical troubleshooting, software testing, customer-facing problem solving, and cross-functional coordination. In my current role, I manage high-complexity SaaS escalations, investigate and reproduce software issues, perform root-cause analysis, coordinate with Development and other teams, and validate bug fixes in live client environments.
+I've encountered QA from several angles throughout my career—from validating physical telecommunications service lines, to testing software builds during my education, to extensive production testing and bug validation in SaaS environments.
+I'm now deliberately building on that experience with formal QA and automation practices.
 ## What's Inside
 
 | Section              | Description |
