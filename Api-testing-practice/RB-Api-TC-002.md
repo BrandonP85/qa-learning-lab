@@ -17,3 +17,20 @@ Successfully completed POST request
 
 Lesson learned: Postman is sensitive to the spacing of elements, like colons. Make sure proper spacing is used.
 
+Request Details:
+
+Method: POST
+URL: https://restful-booker.herokuapp.com/auth
+Body (raw JSON):
+
+    {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2018-01-01",
+        "checkout": "2019-01-01"
+    },
+    "additionalneeds": "Breakfast"
+    }
